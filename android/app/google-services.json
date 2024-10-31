@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066549772310",
+    "project_id": "n2tassie",
+    "storage_bucket": "n2tassie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066549772310:android:c3575260ac6ccc303fb537",
+        "android_client_info": {
+          "package_name": "com.enzo.n2tassie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGZk8iFuAH5WXRMmUMB_5VlNfCiKNNpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
